@@ -1,5 +1,5 @@
 
-# Juice Reservation System
+## Juice Reservation System
 
 The project booking order for juice is all about managing the record of all the customers who book the order from the juice center. People usually visit various juice corners every 
 day. It’s impossible to do all of work manually in today’s juice corners because they are so crowded. This is why people may use this project in order to improve their workflow and 
@@ -13,11 +13,11 @@ details. This project works without internet connections, so any juice corner ca
 Run this code in VS Code with a properly configured C compiler.
 
 
-## -Data-Structure-used
+## Data-Structure-used
 
 Linked List
 
-## -Results
+## Results
 
 - Login
 
