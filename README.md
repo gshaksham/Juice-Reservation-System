@@ -69,7 +69,7 @@ Linked List
 
 ## Feedback
 
-If you have any feedback, please reach out to us at @guptashaksham94@gmail.com
+If you have any feedback, please reach out to me at @guptashaksham94@gmail.com
 
 
 
