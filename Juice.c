@@ -127,7 +127,7 @@ if(head!=NULL)
 	printf("\t\t\tType_of_Juice: %s\n", temp->Type_of_Juice);
 	printf("\t\t\tCustomer_Name: %s\n", temp->Customer_Name);
 	printf("\t\t\tCustomer_number : %s\n",temp->customer_no);
-	printf("\t\t\tAdded_Sugar_Percentage: %s%\n\n", temp->Added_Sugar_Percentage);
+	printf("\t\t\tAdded_Sugar_Percentage: %s\n\n", temp->Added_Sugar_Percentage);
 	temp = temp->next;
  }
  }
