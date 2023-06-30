@@ -15,37 +15,57 @@ Linked List
 
 ## -Results
 
+- Login
 
 ![c1](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/65f59203-0f6b-432c-8717-80a6f355acc2)
 
+- MENU
+
+![2 (2)](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/4c2ce78e-0451-401e-80f2-1c08cabb0fdf)
+
+- INSERT
+
 ![2](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/947913ec-b2f7-4950-bf78-4ab18aa2875a)
+
 ![3](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/34eb1e34-be24-4ede-907d-af920659e1ad)
 
+- SEARCH
+
 ![4](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/cab7f11e-5ce6-4107-8fc8-a2be8a07f6bb)
+
 ![5](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/8d989af6-8f9c-496d-98cd-fd26dd8c3e74)
+
+- MODIFY
+  
 ![6](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/71995899-c848-408e-a4dd-c6714747d573)
+
 ![7](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/a812d35f-55bd-483e-8fd6-7794fa002521)
 
+- DISPLAY
+  
 ![8](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/00c1a427-b3ce-4af1-af0b-f92c80094409)
+
 ![9](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/943221ba-df3f-433e-bb9b-eca5759197b3)
 
-
+- DELETE
+  
 ![10](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/03c31895-3b74-4078-a960-24d5fa04cc81)
-
-
 
 ![11](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/1fb900b5-4b2e-4062-920d-abe01600b88f)
 
-
-
-
+- EXIT
+  
 ![12](https://github.com/gshaksham/Juice-Reservation-System/assets/114429990/ce55cb0c-5cc5-431d-9205-cb6665e0fc72)
 
 
 
+## Author
 
+- [gshaksham](https://github.com/gshaksham)
 
+## Feedback
 
+If you have any feedback, please reach out to us at @guptashaksham94@gmail.com
 
 
 
